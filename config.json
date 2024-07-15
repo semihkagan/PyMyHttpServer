@@ -4,6 +4,7 @@
     "log": true,
     "output": "log.txt",
     "welcome_message": "HTTP server has joined!",
+    "_comment1":"Types: https://www.iana.org/assignments/media-types/media-types.xhtml"
     "allowed_extensions": {
       ".html": "text/html",
       ".jpg": "image/jpg",
