@@ -1,0 +1,17 @@
+{
+    "port": 8080,
+    "index": "./example/index.html",
+    "log": true,
+    "output": "log.txt",
+    "welcome_message": "HTTP server has joined!",
+    "allowed_extensions": {
+      ".html": "text/html",
+      ".jpg": "image/jpg",
+      ".png": "image/png",
+      ".txt": "text/plain",
+      ".exe": "application/octet-stream",
+      ".css": "text/css",
+      ".js": "application/javascript"
+    }
+}
+  
