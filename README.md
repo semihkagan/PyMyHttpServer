@@ -1,2 +1,2 @@
 # PyMyHttpServer
-PythonSimple HTTP Server
+Python Simple HTTP Server
