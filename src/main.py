@@ -1,3 +1,5 @@
+# https://github.com/semihkagan/PyMyHttpServer
+# Lütfen yorum satırlarını silmeyin :/ ❤️
 from http.server import HTTPServer, BaseHTTPRequestHandler
 import socket
 import json
@@ -88,3 +90,4 @@ try:
 except Exception as ex:
     os.system('cls' if os.name == 'nt' else 'clear')
     print(Style.BRIGHT + Fore.RED + "HTTP SERVER IS CLOSING" + Fore.RESET + Style.RESET_ALL)
+# https://github.com/semihkagan tarafından yazılmıştır.
