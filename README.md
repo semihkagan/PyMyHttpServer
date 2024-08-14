@@ -40,6 +40,10 @@ Create a `config.json` file in the same directory as your script with the follow
 Run the script using Python:
 
 ```bash
-python Main.py
-``
+python main.py
+```
+
+Run the script using bash files:
+  - Run the Lib_Installer.bat and install libarys
+  - Run the start.bat 
 
