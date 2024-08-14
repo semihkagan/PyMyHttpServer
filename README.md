@@ -47,3 +47,30 @@ Run the script using bash files:
   - Run the Lib_Installer.bat and install libarys
   - Run the start.bat 
 
+## 3. Access the Server 🌐
+
+Open a web browser and navigate to `http://localhost:PORT`, where `PORT` is the port number specified in `config.json`.
+
+### Example Configuration
+
+- **Port**: 8080
+- **Index File**: `index.html`
+- **Log File**: `log.txt`
+- **Allowed Extensions**: `.html`, `.jpg`, `.png`, `.txt`, `.css`, `.js`
+
+## 4. Modify Configuration 🔄
+
+Update the `config.json` file to change settings such as port number, index file, log file location, and allowed file extensions.
+
+## Requirements 🛠️
+
+- **Python 3**: Ensure Python 3 is installed and properly configured on your system.
+- **colorama**: Used for colored text in the terminal.
+
+You can install it with the following command:
+
+```bash
+pip install colorama
+```
+
+**Note:** This script is designed to run with Python and does not support execution of PHP, Node.js, or other similar server-side scripting languages.
