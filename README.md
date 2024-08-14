@@ -73,4 +73,5 @@ You can install it with the following command:
 pip install colorama
 ```
 
-**Note:** This script is designed to run with Python and does not support execution of PHP, Node.js, or other similar server-side scripting languages.
+### Note ❗
+**This script is designed to run with Python and does not support execution of PHP, Node.js, or other similar server-side scripting languages.**
