@@ -73,5 +73,13 @@ You can install it with the following command:
 pip install colorama
 ```
 
+## License 📜
+
+This project is licensed under the [MIT License](LICENSE).
+
 ### Note ❗
 **This script is designed to run with Python and does not support execution of PHP, Node.js, or other similar server-side scripting languages.**
+
+---
+
+Developed with ❤️ by [Semih Kagan](https://github.com/semihkagan).
