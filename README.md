@@ -35,3 +35,11 @@ Create a `config.json` file in the same directory as your script with the follow
     }
 }
 ```
+## 2. Run the Server 🚀
+
+Run the script using Python:
+
+```bash
+python Main.py
+``
+
